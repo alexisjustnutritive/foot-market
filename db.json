@@ -1,0 +1,16 @@
+{
+    "food": [
+        {
+            "price": "25",
+            "name": "cheesecake",
+            "category": "dessert",
+            "id": "1"
+        },
+        {
+            "price": "10",
+            "name": "croquette",
+            "category": "hors d'oeuvres",
+            "id": "2"
+        }
+    ]
+}
